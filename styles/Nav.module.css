@@ -1,0 +1,13 @@
+.nav {
+  padding: 30px;
+  background-color: skyblue;
+}
+
+.nav ul {
+  display: flex;
+  gap: 0 10px;
+}
+
+.nav ul li {
+  color: #fff;
+}
